@@ -34,12 +34,6 @@ Perfect for online trivia nights, educational games, and competitive fun with fr
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/ScoreSprinter.git
-cd ScoreSprinter
 
 
 
